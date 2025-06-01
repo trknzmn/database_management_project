@@ -1,3 +1,3 @@
 # database_management_project
 
-©May 2024, school project
+©2024 May, school project
